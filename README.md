@@ -4,7 +4,7 @@ NPM: 2206825776<br>
 Kelas: Pemrograman Lanjut - A<br>
 
 ---
-## REFLEKSI 1
+## REFLEKSI 1 (Hello-MiniKube)
 ###### 1.1. Compare the application logs before and after you exposed it as a Service. Try to open the app several times while the proxy into the Service is running. What do you see in the logs? Does the number of logs increase each time you open the app?
 ![](images/1.png) 
 * Benar bahwa terdapat perbedaan karena setelah *service* diekspos, *service* dapat menerima permintaan. 
